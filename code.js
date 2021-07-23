@@ -1,1 +1,5 @@
-console.log('Hellow world');
+
+
+let name = "Eshop";
+
+alert(name);
